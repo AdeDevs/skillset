@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Montserrat&family=Public+Sans:wght@100;400;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Indie+Flower&family=Montserrat&family=Poppins&display=swap');
 
-body {
-    background-color: red;
+.container {
+    background-color: white;
+    background-image: url(../assets//firstbg.jpeg);
 }
